@@ -5,9 +5,9 @@ import Pizza.Base.Pizza;
 public class HCMGreekPizza extends Pizza{
 	public HCMGreekPizza() {
 		super();
-		name = "A good greek pizza";
-		dough = "Thin dough";
-		sauce = "Chilli sauce";
+		name = "HCM A good greek pizza";
+		dough = "HCM Thin dough";
+		sauce = "HCM Chilli sauce";
 		toppings.add("Tomato");
 		toppings.add("Potato");
 	}

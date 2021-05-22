@@ -1,12 +1,14 @@
-package com.manhlee;
+package Pizza.DNPizza;
 
-public class CheesePizza extends Pizza {
+import Pizza.Base.Pizza;
 
-	public CheesePizza() {
+public class DNCheesePizza extends Pizza {
+
+	public DNCheesePizza() {
 		super();
-		name = "The best cheese pizza";
-		dough = "Very thin dough";
-		sauce = "Very spicy sauce";
+		name = "DN The best cheese pizza";
+		dough = "DN Very thin dough";
+		sauce = "DN Very spicy sauce";
 		toppings.add("Blace olives");
 		toppings.add("Cheese");
 	}

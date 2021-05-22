@@ -6,9 +6,9 @@ public class HCMCheesePizza extends Pizza {
 
 	public HCMCheesePizza() {
 		super();
-		name = "The best cheese pizza";
-		dough = "Very thin dough";
-		sauce = "Very spicy sauce";
+		name = "HCM The best cheese pizza";
+		dough = "HCM Very thin dough";
+		sauce = "HCM Very spicy sauce";
 		toppings.add("Blace olives");
 		toppings.add("Cheese");
 	}

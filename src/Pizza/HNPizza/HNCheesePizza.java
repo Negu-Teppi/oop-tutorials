@@ -6,9 +6,9 @@ public class HNCheesePizza extends Pizza {
 
 	public HNCheesePizza() {
 		super();
-		name = "The best cheese pizza";
-		dough = "Very thin dough";
-		sauce = "Very spicy sauce";
+		name = "HN The best cheese pizza";
+		dough = "HN Very thin dough";
+		sauce = "HN Very spicy sauce";
 		toppings.add("Blace olives");
 		toppings.add("Cheese");
 	}
